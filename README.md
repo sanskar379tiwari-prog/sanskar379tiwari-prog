@@ -1,3 +1,7 @@
+## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<br>   
+
 # 💫 About Me:
 I’m a first-year engineering student exploring technology with a strong focus on AI. I have working knowledge of Python and C, and I prefer learning by building projects from scratch.
 
@@ -6,8 +10,15 @@ Currently, I’m experimenting with AI systems and trying to understand core con
 I like staying updated with new developments in AI and tech, and I’m aiming to transition deeper into computer science. <br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanskar_its_me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-tiwari-24b826394) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@playing_sanskar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanskar379tiwari@gmail.com) 
+<br>   
+
+<div align="center">
+<a href="https://www.linkedin.com/in/sanskar-tiwari-24b826394"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://www.instagram.com/sanskar_its_me"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+<a href="https://twitter.com/playing_sanskar"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
+</div>
 
 # 💻 Tech Stack:
 
@@ -25,7 +36,7 @@ I like staying updated with new developments in AI and tech, and I’m aiming to
 
 ---
 
-### 🔍 Explored / Familiar
+### 🔍 Explored / Familiar ( used in some project )
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -41,13 +52,7 @@ I like staying updated with new developments in AI and tech, and I’m aiming to
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanskar379tiwari-prog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sanskar379tiwari-prog&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanskar379tiwari-prog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanskar379tiwari-prog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
